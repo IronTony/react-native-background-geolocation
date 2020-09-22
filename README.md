@@ -3,6 +3,9 @@
 [![CircleCI](https://circleci.com/gh/mauron85/react-native-background-geolocation/tree/master.svg?style=shield)](https://circleci.com/gh/mauron85/react-native-background-geolocation/tree/master)
 [![issuehunt-shield-v1](issuehunt-shield-v1.svg)](https://issuehunt.io/r/mauron85/react-native-background-geolocation/)
 
+## Upgraded submodules for iOS and Android
+Now it compiles on Android latest releases
+
 ## We're moving
 
 Npm package is now [@mauron85/react-native-background-geolocation](https://www.npmjs.com/package/@mauron85/react-native-background-geolocation)!
